@@ -2,11 +2,13 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        Under Construction
+        <meta http-equiv="refresh" content="1; url=http://71.134.227.231:8080/pieinthesky">
+        <script type="text/javascript">
+            window.location.href = "http://71.134.227.231:8080/pieinthesky";
+        </script>
+        <title>Redirecting...</title>
     </head>
     <body>
-        The Pi is currently unavailable as this connection is still under
-        construction.  Please check in a day or two.  If the problem still
-        persists, you may need to speak with the network administrator. 
+        <a href='http://71.134.227.231:8080/pieinthesky'>Redirecting...</a>
     </body>
 </html>
